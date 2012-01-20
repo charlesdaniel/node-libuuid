@@ -7,7 +7,7 @@ NOTE: The uuid returned is lowercased.
 ## Prerequisites
 You must have libuuid installed on your machine.
 In Ubuntu:
-    $ apt-get install uuid-dev
+    apt-get install uuid-dev
 
 ## Install
     npm install libuuid
